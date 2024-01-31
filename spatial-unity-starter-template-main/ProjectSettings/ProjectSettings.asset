@@ -865,11 +865,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 2
-  cloudProjectId: 
+  cloudProjectId: 62a34ff8-aec7-4ef9-a3e9-457df45cf73d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: spatial-unity-starter-template-main 2024-01-31_21-19-50
+  organizationId: siutimothyekatan
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
