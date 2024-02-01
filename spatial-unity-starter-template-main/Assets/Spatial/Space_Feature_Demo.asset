@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: Space_Feature_Demo
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
-  packageName: Feature Demo
+  sku: 65bbc7e2a85d981acad9a839
+  packageName: studio ready
   thumbnail: {fileID: 2800000, guid: ec6e61a8993a64290991cfc322ec43ea, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
-  scene: {fileID: 102900000, guid: 5a4e4d605920f4afdbe35a0942b30555, type: 3}
+  worldID: 2ualxv2afb75txd92b6y9
+  scene: {fileID: 102900000, guid: 7295a2341b6d8304698a994100b64cd1, type: 3}
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets: []
   settings:
