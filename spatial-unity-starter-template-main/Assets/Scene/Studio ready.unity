@@ -10019,7 +10019,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 966526366}
   m_LocalRotation: {x: 0, y: 0.017041054, z: 0, w: 0.9998548}
-  m_LocalPosition: {x: 21.27, y: -0.63, z: -8.79}
+  m_LocalPosition: {x: 21.439, y: -0.63, z: -8.52}
   m_LocalScale: {x: 0.547041, y: 0.6152335, z: 0.6152335}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11117,8 +11117,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4287496813
-  m_fontColor: {r: 0.42881063, g: 0.0073513417, b: 0.5566038, a: 1}
+    rgba: 4285596759
+  m_fontColor: {r: 0.3422337, g: 0.014222113, b: 0.4433962, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -11141,7 +11141,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 3
+  m_fontStyle: 19
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -11171,7 +11171,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: -0.014195918}
+  m_margin: {x: 0, y: 0.043680668, z: 0, w: -0.014195918}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   _SortingLayer: 0
@@ -11230,7 +11230,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1068981309}
   m_LocalRotation: {x: -0.088604614, y: -0, z: -0, w: 0.9960669}
-  m_LocalPosition: {x: 0, y: 0, z: -3.6772938}
+  m_LocalPosition: {x: 0, y: 0, z: -3.678}
   m_LocalScale: {x: 0.11239752, y: 0.14279275, z: 0.08316588}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -11240,7 +11240,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: -10.167, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3.7389526, y: -0.17515278}
+  m_AnchoredPosition: {x: 3.793, y: -0.17515278}
   m_SizeDelta: {x: 20, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!82 &1068981313
@@ -11255,7 +11255,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: -8663463407411171230, guid: 0461beb79fbfa4735867cac3f1f81cd2,
     type: 2}
   m_audioClip: {fileID: 8300000, guid: 96067442b89c53c47aeef489667c7b90, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -11414,10 +11414,10 @@ CapsuleCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
-  m_Radius: 6.2635345
+  m_Radius: 4.1523423
   m_Height: 20.963726
   m_Direction: 1
-  m_Center: {x: -0.037777916, y: -1.8175257, z: -2.9782982}
+  m_Center: {x: 1.2949394, y: -2.070015, z: -4.8825145}
 --- !u!1 &1073213590
 GameObject:
   m_ObjectHideFlags: 0
